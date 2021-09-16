@@ -1,0 +1,15 @@
+.page .left_top_box{
+    width: 280px;
+    height: 200px;
+    background-image: url(../images/head2.png);
+    background-repeat: no-repeat;
+    background-color: #fff;
+    overflow: hidden;
+}
+.page .left_top_box span{
+    display: block;
+    color: #fff;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 10px;
+}
